@@ -7,7 +7,7 @@
 
 - 🌱 I study at **Hasanuddin University**
 
-- 📝 My Blog [https://thoriqasblog.blogspot.com/](https://thoriqasblog.blogspot.com/)
+- 📝 My Simple Blog [https://thoriqasblog.blogspot.com/](https://thoriqasblog.blogspot.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
