@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhthoriqas&label=Profile%20views&color=0e75b6&style=flat" alt="muhthoriqas" /> </p>
 
-- 🌱 I study at **Hasanuddin University**
+- :fallen_leaf: I study at **Hasanuddin University**
 
 - 📝 My Blog [https://thoriqasblog.blogspot.com/](https://thoriqasblog.blogspot.com/)
 
