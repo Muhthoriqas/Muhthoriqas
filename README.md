@@ -6,8 +6,6 @@
 
 - :fallen_leaf: I study at **Hasanuddin University**
 
-- 📝 My Blog [https://thoriqasblog.blogspot.com/](https://thoriqasblog.blogspot.com/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-thoriq-ali-said-696111244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-thoriq-ali-said" height="30" width="40" /></a>
