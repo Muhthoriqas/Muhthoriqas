@@ -38,4 +38,4 @@
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhthoriqas&show_icons=true&locale=en&layout=compact" alt="muhthoriqas"  /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="410px" /></p>
