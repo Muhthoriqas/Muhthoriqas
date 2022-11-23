@@ -40,5 +40,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhthoriqas&show_icons=true&locale=en&layout=compact" alt="muhthoriqas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="414px" /></p>
 
-<h3 align="left">My Contribution 2022:</h3>
+<h3 align="left">My Contributions:</h3>
+
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake.svg)
