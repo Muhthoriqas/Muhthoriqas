@@ -40,6 +40,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhthoriqas&show_icons=true&locale=en&layout=compact" alt="muhthoriqas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="414px" /></p>
 
+<h3 align="left">This month i speend my time on:</h3>
 <!--START_SECTION:waka-->
 
 ```text
