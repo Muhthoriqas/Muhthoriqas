@@ -42,6 +42,15 @@
 
 <!--START_SECTION:waka-->
 
+```text
+JavaScript       6 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.62 %
+Python           4 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.22 %
+PHP              1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
+CSS              1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+JSON             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+HTML             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">My Contributions:</h3>
