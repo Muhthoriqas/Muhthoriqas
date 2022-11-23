@@ -43,12 +43,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       6 hrs 24 mins   ██████████▓░░░░░░░░░░░░░░   42.62 %
-Python           4 hrs 41 mins   ███████▓░░░░░░░░░░░░░░░░░   31.22 %
-PHP              1 hr 28 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.82 %
-CSS              1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
-JSON             32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
-HTML             30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+From: 23 October 2022 - To: 22 November 2022
+
+Total Time: 48 hrs 49 mins
+
+PHP              19 hrs 24 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.28 %
+JavaScript       11 hrs 39 mins  ⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.60 %
+Blade Template   6 hrs 8 mins    ⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.42 %
+Python           5 hrs 2 mins    ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.21 %
+CSS              2 hrs 16 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.61 %
+JSON             1 hr 40 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.38 %
 ```
 
 <!--END_SECTION:waka-->
