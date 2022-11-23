@@ -40,6 +40,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhthoriqas&show_icons=true&locale=en&layout=compact" alt="muhthoriqas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="414px" /></p>
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
 <h3 align="left">My Contributions:</h3>
 
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake.svg)
