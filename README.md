@@ -57,7 +57,11 @@ JSON             1 hr 40 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-
+<!-- 
+<a href="https://github.com/Muhthoriqas/My-Portofolio">
+  <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhthoriqas&repo=My-Portofolio"  />
+</a>
+ -->
 <h3 align="left">My Contributions:</h3>
 
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake.svg)
