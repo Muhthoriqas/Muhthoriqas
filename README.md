@@ -37,7 +37,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhthoriqas&hide=jupyter%20notebook&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhthoriqas&hide=jupyter%20notebook,java&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="414px" /></p>
 
 <h3 align="left">This month i speend my time on:</h3>
