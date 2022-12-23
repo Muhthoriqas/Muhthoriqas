@@ -62,6 +62,6 @@ Text             2 hrs 50 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhthoriqas&repo=My-Portofolio"  />
 </a>
  -->
-<h3 align="left">My Contributions:</h3>
+<h3 align="left">My Contribution:</h3>
 
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake.svg)
