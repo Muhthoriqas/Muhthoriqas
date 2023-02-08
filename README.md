@@ -63,6 +63,6 @@ Python       17 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 </a>
  -->
 
-<h3 align="left">My Contributions:</h3>
+<h3 align="left">My Contribution:</h3>
 
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake.svg)  
