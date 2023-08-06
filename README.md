@@ -12,7 +12,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-thoriq-ali-said-696111244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-thoriq-ali-said" height="30" width="40" /></a>
-<a href="https://kaggle.com/thoriqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="thoriqas" height="30" width="40" /></a>
 <a href="https://instagram.com/mthoriq_as" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mthoriq_as" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/thoriqas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thoriqas" height="30" width="40" style="  font-size: 30px;
 " /></a>
