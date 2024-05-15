@@ -65,7 +65,7 @@
         </a>
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
             alt="laravel"
             width="40"
             height="40"
@@ -73,7 +73,7 @@
         </a>
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
             alt="bootstrap"
             width="40"
             height="40"
@@ -106,7 +106,7 @@
         </a>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
             alt="git"
             width="40"
             height="40"
