@@ -8,6 +8,7 @@
 
 - :fallen_leaf: I study at **Hasanuddin University**
 - :leaves: Now I'm Enjoying Learning **Web Programming**
+- 🌱 I'm currently hibernating from GitHub and have moved to GitLab: [GitLab Profile](https://gitlab.com/Muhthoriqas1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
