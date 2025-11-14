@@ -3,9 +3,9 @@
 <h3 align="center">Web & Cloud Computing Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhthoriqas&label=Profile%20views&color=0e75b6&style=flat" alt="muhthoriqas" /> </p>
-
+<!-- 
 <img align="right" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-
+ -->
 
 - :fallen_leaf: I study at **Hasanuddin University**
 - :leaves: Now I'm Enjoying Learning **Web Programming**
@@ -148,8 +148,8 @@
         
 
  </p>
-
-<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhthoriqas&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p>
+<!-- 
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=muhthoriqas&hide=jupyter%20notebook,java,html&show_icons=true&langs_count=6&locale=en&layout=compact" alt="muhthoriqas" /></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhthoriqas&" alt="muhthoriqas" width="413px" /></p>
 
 <h3 align="left">This month i speend my time on:</h3>
@@ -173,7 +173,8 @@ Text    12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   <img align="center" style="margin:0.5rem" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Muhthoriqas&repo=My-Portofolio"  />
 </a>
  -->
-
+<!-- 
 <h3 align="left">My Contributions:</h3>
 
 ![snake gif](https://github.com/Muhthoriqas/Muhthoriqas/blob/output/github-contribution-grid-snake-dark.svg)  
+ -->
