@@ -1,4 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="32px"> I'm Thoriq AS</h1>
+<h3 align="center">I'm currently hibernating from GitHub and have moved to GitLab (Work)</h3>
 <h3 align="center">Web & Cloud Computing Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhthoriqas&label=Profile%20views&color=0e75b6&style=flat" alt="muhthoriqas" /> </p>
